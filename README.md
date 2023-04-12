@@ -1,2 +1,2 @@
-# galeria
+# galeria_professor
 
